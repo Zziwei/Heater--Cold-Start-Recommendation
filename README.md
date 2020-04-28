@@ -14,3 +14,6 @@ pandas
 ## Excution
 Run main_CiteULike.py to run the model Heater on CiteULike data; Run main_LastFM.py to run the model Heater on LastFM data; Run main_XING.py to run the model Heater on XING data;
 
+## Thanks
+Our code is based on the implementation of DropoutNet (https://github.com/layer6ai-labs/DropoutNet).
+
